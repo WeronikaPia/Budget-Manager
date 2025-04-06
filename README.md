@@ -30,7 +30,7 @@ Budget Manager is a simple GUI-based Python application that helps you manage yo
 
 Clone the repository:
 
-git clone https://github.com/your-username/simple-budget-manager.git
+git clone https://github.com/WeronikaPia/Budget-Manager.git
 
 cd Budget-Manager
 
