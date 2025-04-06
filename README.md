@@ -1,27 +1,27 @@
 # Budget-Manager
-:
+
 💸 Simple Budget Manager
-Simple Budget Manager is a lightweight desktop application built with Python that helps you manage your personal budget in a simple and intuitive way.
+Budget Manager is a simple GUI-based Python application that helps you manage your personal budget in an intuitive way.
 
 ✨ Features:
-Add categorized transactions (e.g., food, transport, entertainment)
+• Add categorized transactions (e.g., food, transport, entertainment)
 
-Store data in a local file
+• Store data in a local file
 
-Calculate your balance:
+• Calculate your balance:
 
--> Current balance
+  -> Current balance
 
--> Monthly balance
+  -> Monthly balance
 
--> Annual balance
+  -> Annual balance
 
 🛠️ Technologies:
-Python 3.x
+• Python 3.x
 
-Tkinter (GUI)
+• Tkinter (GUI)
 
-Python built-in modules for file handling (e.g. json, csv, etc.)
+• Python built-in modules for file handling (e.g. json, csv, etc.)
 
 🚀 How to run:
 Clone the repository:
